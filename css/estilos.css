@@ -41,13 +41,13 @@ list-style: none;
     margin-right: 15px;
 }
 .datos a{
-    color:#fff;
+    color:rgb(226, 48, 48);
     text-decoration: none;
     font-weight: bold;
     cursor: pointer;
 }
 
-.datosa:hover{
+.datos a:hover{
     color: #f50ba7;
     transition:0.3s ease-in;
 }
